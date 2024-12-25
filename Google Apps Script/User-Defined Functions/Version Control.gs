@@ -1,4 +1,4 @@
-// Version Control - Log and Display Version details each time user modifies cell in sheet */
+// Version Control - Log and Display Sheet Version details each time user modifies cell in sheet */
 
 function versionUpdate(e) {
     var sheet = SpreadsheetApp.getActiveSpreadsheet();
